@@ -1,1 +1,2 @@
-Yo What up!
+This is a tutorial for creating \n
+a slide out menu using only JavaScript.
